@@ -93,7 +93,7 @@ The application generates:
 
 ## Output Screenshot
 
-![AI Resume Analyzer Output](https://github.com/thushitha-ch/AI-Resume-Analyzer/blob/main/images/output.png)
+![AI Resume Analyzer Output](https://github.com/thushitha-ch/AI-Resume-Analyzer/blob/main/Ai%20resume%20analyzer%20output.png?raw=true)
 
 ---
 

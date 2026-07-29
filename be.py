@@ -25,7 +25,7 @@ from langchain_groq import ChatGroq
 fast_api_obj=FastAPI()
 
 llm=ChatGroq(
-    api_key="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",
+    api_key="YOUR_GROQ_API_KEY",
     model="llama-3.3-70b-versatile"
 )
 

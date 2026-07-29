@@ -89,6 +89,14 @@ The application generates:
 - Resume Score
 - Resume Improvement Suggestions
 
+---
+
+## Output Screenshot
+
+![AI Resume Analyzer Output](https://github.com/thushitha-ch/AI-Resume-Analyzer/blob/main/images/output.png)
+
+---
+
 ## Author
 
 **Thushitha Changana**
